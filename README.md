@@ -12,6 +12,11 @@ cnpm i
 npm run dev
 ```
 
+gitee 仓库
+```
+git@gitee.com:lianmt/vue3-ts-vite-element_plus-template.git
+```
+
 ### 功能
 
 css 预处理器
