@@ -1,0 +1,43 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add element-plus --dev
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/lianfamily/.rvm/bin:/Users/lianfamily/.npm-global/lib/node_modules/cnpm/bin:/Users/lianfamily/.npm-global/lib/node_modules/cnpm/bin
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  12.13.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EINVAL: invalid argument, unlink '/Users/lianfamily/Public/project/vue3-ts-vite-element_plus-template/node_modules/vscode-languageserver-protocol/node_modules/vscode-languageserver-types'
+
+npm manifest: 
+  {
+    "name": "vue3-ts-vite-element_plus-template",
+    "version": "0.0.0",
+    "scripts": {
+      "dev": "vite",
+      "build": "vue-tsc --noEmit && vite build",
+      "serve": "vite preview"
+    },
+    "dependencies": {
+      "vue": "^3.2.16"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-vue": "^1.9.3",
+      "typescript": "^4.4.3",
+      "vite": "^2.6.4",
+      "vue-tsc": "^0.3.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

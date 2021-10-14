@@ -7,6 +7,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "element-plus": "^1.1.0-beta.20",
+    "vite": "^2.6.7",
+    "vite-plugin-components": "^0.13.3",
+    "vite-plugin-style-import": "^1.2.1",
     "vue": "^3.2.16"
   },
   "devDependencies": {
