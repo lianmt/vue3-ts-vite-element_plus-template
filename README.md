@@ -1,5 +1,26 @@
 # Vue 3 + Typescript + Vite + element-plus 脚手架
 
+## 多个仓库
+
+先删除，再切换
+
+删除
+```
+git remote rm origin
+```
+
+github
+```
+git remote add origin git@gitee.com:lianmt/vue3-ts-vite-element_plus-template.git
+git push -u origin master
+```
+
+gitee
+```
+git remote add origin git@github.com:FBing/java-code-generator
+git push -u origin master
+```
+
 ## 功能
 
 css 预处理器
