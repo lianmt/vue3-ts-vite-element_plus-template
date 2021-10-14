@@ -12,13 +12,13 @@ git remote rm origin
 
 github
 ```
-git remote add origin git@gitee.com:lianmt/vue3-ts-vite-element_plus-template.git
+git remote add origin git@github.com:lianmt/vue3-ts-vite-element_plus-template.git
 git push -u origin master
 ```
 
 gitee
 ```
-git remote add origin git@github.com:FBing/java-code-generator
+git remote add origin git@gitee.com:lianmt/vue3-ts-vite-element_plus-template.git
 git push -u origin master
 ```
 
