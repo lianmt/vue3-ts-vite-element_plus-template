@@ -4,7 +4,7 @@
 
 ### 安装运行
 
-```
+```npm
 git clone git@github.com:lianmt/vue3-ts-vite-element_plus-template.git
 
 cd vue3-ts-vite-element_plus-template
@@ -58,7 +58,7 @@ gitee 还有同步 github 代码的功能。在仓库名称右侧，点击刷新
 
 vite.config.ts 配置
 
-```
+```javascript
 import styleImport from 'vite-plugin-style-import'
 import ViteComponents, { ElementPlusResolver } from 'vite-plugin-components'
 
