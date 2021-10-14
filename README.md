@@ -1,14 +1,16 @@
 # Vue 3 + Typescript + Vite + element-plus 脚手架
 
-### 多个仓库
+### 安装运行
 
-先删除远程，再切换。
+```
+git clone git@github.com:lianmt/vue3-ts-vite-element_plus-template.git
 
-好吧，这样似乎不行。
+cd vue3-ts-vite-element_plus-template
 
-发现，gitee 可以直接导入 github 仓库，添加仓库时有这个选项。
+cnpm i
 
-gitee 还有同步代码的功能。在仓库名称右侧，点击刷新按钮即可。
+npm run dev
+```
 
 ### 功能
 
@@ -26,3 +28,13 @@ npm install -D less
 # .styl and .stylus
 npm install -D stylus
 ```
+
+### 多个仓库
+
+先删除远程，再切换。
+
+好吧，这样似乎不行。
+
+发现，gitee 可以直接导入 github 仓库，添加仓库时有这个选项。
+
+gitee 还有同步代码的功能。在仓库名称右侧，点击刷新按钮即可。
