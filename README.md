@@ -2,25 +2,9 @@
 
 ## 多个仓库
 
-先删除，再切换。
-好吧，这样似乎不行，不纠正，过。
-
-删除
-```
-git remote rm origin
-```
-
-github
-```
-git remote add origin git@github.com:lianmt/vue3-ts-vite-element_plus-template.git
-git push -u origin master
-```
-
-gitee
-```
-git remote add origin git@gitee.com:lianmt/vue3-ts-vite-element_plus-template.git
-git push -u origin master
-```
+先删除远程，再切换。
+好吧，这样似乎不行。
+发现，gitee 可以直接导入 github 仓库，添加仓库时有这个选项。
 
 ## 功能
 
