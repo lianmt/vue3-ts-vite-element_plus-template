@@ -44,7 +44,9 @@ npm install -D stylus
 
 发现，gitee 可以直接导入 github 仓库，添加仓库时有这个选项。
 
-gitee 还有同步代码的功能。在仓库名称右侧，点击刷新按钮即可。
+gitee 还有同步 github 代码的功能。在仓库名称右侧，点击刷新按钮即可。
+
+![](https://cdn.nlark.com/yuque/0/2021/png/103225/1634220277493-03c1de06-f8c7-40dc-9328-abb15d140625.png)
 
 ### 踩坑
 
