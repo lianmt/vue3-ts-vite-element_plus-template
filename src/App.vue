@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <div>
     <el-button type="danger">ele-button</el-button>
   </div>
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite + Element-plus" />
 </template>
 
 <style lang="scss">
